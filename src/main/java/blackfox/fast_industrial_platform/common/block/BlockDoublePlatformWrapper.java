@@ -35,7 +35,7 @@ public class BlockDoublePlatformWrapper extends Block {
     private int height = 3;
 
     public BlockDoublePlatformWrapper() {
-        super(Material.IRON);
+        super(Material.ROCK);
         setRegistryName("double_platform_wrapper");
         setTranslationKey(FIPMod.MODID +"."+"double_platform_wrapper");
         setCreativeTab(CreativeTabs.BUILDING_BLOCKS);

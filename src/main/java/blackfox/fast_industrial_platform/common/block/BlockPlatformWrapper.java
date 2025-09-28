@@ -32,7 +32,7 @@ public class BlockPlatformWrapper extends Block {
     IBlockState borderBlock = null;
     IBlockState fillBlock = null;
     public BlockPlatformWrapper() {
-        super(Material.IRON);
+        super(Material.ROCK);
         setRegistryName("platform_wrapper");
         setTranslationKey(FIPMod.MODID +"."+"platform_wrapper");
         setCreativeTab(CreativeTabs.BUILDING_BLOCKS);
