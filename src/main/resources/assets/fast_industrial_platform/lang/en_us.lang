@@ -27,6 +27,7 @@ tooltip.fip.platform_wrapper.tooltip2=§eRight click with two building blocks to
 tile.fast_industrial_platform.double_platform_wrapper.name=Double Platform Wrapper
 tooltip.fip.double_platform_wrapper.tooltip1=Build a double layer industrial platform faster
 tooltip.fip.double_platform_wrapper.tooltip2=§eRight click with three building blocks to create a double platform
+tooltip.fip.double_platform_wrapper.tooltip3=§eRight click with the platform building stick to set pillar height
 
 message.fip.border_set=Set Border Block: %s
 message.fip.fill_set=Set Fill Block: %s

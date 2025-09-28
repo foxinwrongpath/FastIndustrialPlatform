@@ -27,6 +27,7 @@ tooltip.fip.platform_wrapper.tooltip2=§e使用两种建筑方块右键点击以
 tile.fast_industrial_platform.double_platform_wrapper.name=双层平台包装器
 tooltip.fip.double_platform_wrapper.tooltip1=更快地建造双层工业平台
 tooltip.fip.double_platform_wrapper.tooltip2=§e使用三种建筑方块右键点击以创建双层平台
+tooltip.fip.double_platform_wrapper.tooltip3=§e使用平台建造杖右键点击以设置支柱高度
 
 message.fip.border_set=设置外圈方块: %s
 message.fip.fill_set=设置填充方块: %s

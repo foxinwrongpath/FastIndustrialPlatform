@@ -148,6 +148,7 @@ public class BlockDoublePlatformWrapper extends Block {
     public void addInformation(ItemStack stack, @Nullable World worldIn, List<String> tooltip, ITooltipFlag flagIn) {
         tooltip.add(I18n.format("tooltip.fip.double_platform_wrapper.tooltip1"));
         tooltip.add(I18n.format("tooltip.fip.double_platform_wrapper.tooltip2"));
+        tooltip.add(I18n.format("tooltip.fip.double_platform_wrapper.tooltip3"));
         super.addInformation(stack, worldIn, tooltip, flagIn);
     }
 }
