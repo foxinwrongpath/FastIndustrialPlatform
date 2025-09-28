@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "${mod_id}",
+    "name": "${mod_name}",
+    "description": "",
+    "version": "${mod_version}",
+    "mcversion": "${minecraft_version}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [ "Magic_Sweepy","Black Fox" ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
