@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "fast_industrial_platform:items/platform_building_stick"
+  }
+}

@@ -34,4 +34,18 @@ dependencies {
 
     compileOnly("org.projectlombok:lombok:1.18.24")
     annotationProcessor("org.projectlombok:lombok:1.18.24")
+
+//    compileOnly ("com.github.bsideup.jabel:jabel-javac-plugin:0.4.2")
+//    annotationProcessor ("com.github.bsideup.jabel:jabel-javac-plugin:0.4.2")
 }
+
+//tasks.compileJava {
+//    sourceCompatibility = "21" // IDE 支持
+//    options.release.set(8)
+//
+//    javaCompiler.set(
+//        javaToolchains.compilerFor {
+//            languageVersion.set(JavaLanguageVersion.of(21))
+//        }
+//    )
+//}

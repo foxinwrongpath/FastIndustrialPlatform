@@ -1,0 +1,16 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "orientable",
+    "textures": {
+      "top": "fast_industrial_platform:blocks/double_platform_wrapper_top",
+      "down": "fast_industrial_platform:blocks/platform_wrapper_side",
+      "front": "fast_industrial_platform:blocks/platform_wrapper_side",
+      "side": "fast_industrial_platform:blocks/platform_wrapper_side"
+    }
+  },
+  "variants": {
+    "normal": [{}],
+    "inventory": [{}]
+  }
+}
